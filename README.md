@@ -16,13 +16,13 @@ A React-based expense tracker application that helps users manage and monitor th
 
 ## Screenshot
 
-![Expense Tracker Scree![screencapture-localhost-5173-2024-08-08-19_21_24](https://github.com/user-attachments/assets/25a24a39-5a4d-4bbe-aa96-d82660b10dab)
+[screencapture-localhost-5173-2024-08-08-19_21_24](https://github.com/user-attachments/assets/25a24a39-5a4d-4bbe-aa96-d82660b10dab)
 
 
 
 ## Installation
 
-To run the Tic Tac Toe React game locally, follow these steps:
+To run the Expense Tracker locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
